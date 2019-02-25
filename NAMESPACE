@@ -1,0 +1,2 @@
+importFrom("grDevices", "graphics.off")
+export(clean, get.terminal.width, hrule, message.flush, rm.all, setwidth, csource)
