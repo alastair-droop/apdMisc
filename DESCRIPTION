@@ -6,6 +6,6 @@ Date: 2021-02-26
 Author: Alastair Droop <alastair.droop@gmail.com>
 Maintainer: Alastair Droop <alastair.droop@gmail.com>
 Description: Miscellaneous support functions for control of the R terminal under BASH-like terminals.
-Suggests: colorout
+Depends: colorout
 License: LGPL (>=2)
 LazyLoad: yes

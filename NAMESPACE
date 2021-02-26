@@ -1,2 +1,3 @@
 importFrom("grDevices", "graphics.off")
+importFrom("colorout", "setOutputColors")
 export(clean, get.terminal.width, hrule, message.flush, rm.all, setwidth, csource, is.darkmode, set.solarized)
