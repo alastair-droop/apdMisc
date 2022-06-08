@@ -1,11 +1,10 @@
 Package: apdMisc
 Type: Package
 Title: Miscellaneous functions used by Alastair Droop
-Version: 1.7
-Date: 2021-02-26
+Version: 1.8
+Date: 2022-06-08
 Author: Alastair Droop <alastair.droop@gmail.com>
 Maintainer: Alastair Droop <alastair.droop@gmail.com>
 Description: Miscellaneous support functions for control of the R terminal under BASH-like terminals.
-Depends: colorout
 License: LGPL (>=2)
 LazyLoad: yes

@@ -10,6 +10,6 @@ Use the [devtools](https://github.com/r-lib/devtools/) package for simple instal
 # Install devtools from CRAN (if necessary):
 install.packages("devtools")
 
-# Use devtools to install marginLines:
+# Use devtools to install apdMisc:
 devtools::install_github("alastair-droop/apdMisc")
 ~~~
