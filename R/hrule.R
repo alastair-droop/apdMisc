@@ -3,4 +3,3 @@ hrule <- function(character="-", width=getOption("width")-1, as.message=FALSE){
   if(identical(as.message, TRUE)) message(output)
   else cat(sprintf("%s\n", output))
 }
-
